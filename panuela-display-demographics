@@ -1,0 +1,18 @@
+using System;
+
+public class ActivityOne
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Demographics Program by Joshua Panuela\n");
+        Console.WriteLine ("Student ID: 24915969");
+        Console.WriteLine ("Full Name: Joshua Panuela ");
+        Console.WriteLine ("Nickname: Josh ");
+        Console.WriteLine ("Gender: Male ");
+        Console.WriteLine ("Year Level: 2nd Year ");
+        Console.WriteLine ("Home Location: Kinsang-an , Pardo , Cebu City , Cebu");
+        Console.WriteLine ("Course: Bachelor of Science in Computer Science ");
+        Console.WriteLine ("Mobile No: 09123123123  ");
+        Console.WriteLine ("Personal Email: bernardojoshua124@gmail.com ");
+    }
+}
